@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 50%;
+    height: 100%;
+    margin: 1% auto;
+}
+
+p{
+    margin: 3%;
+}
+
+li{
+    margin: 3%;
+}
