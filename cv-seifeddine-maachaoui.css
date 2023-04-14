@@ -148,7 +148,27 @@ footer{
 
 footer h6{
     color: white;
-    margin: 4%;
+    margin: 2%;
+}
+
+.container_links{
+    display: flex;
+    justify-content: center;
+}
+
+.container_links ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.container_links ul li a {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.container_links ul li a:hover{
+    color : rgba(243, 110, 8, 0.912)
 }
 
 
